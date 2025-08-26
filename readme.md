@@ -56,9 +56,12 @@ The Decision Tree is evaluated using:
 ✅ F1-score
 ✅ Confusion Matrix
 
-**[📝 Future Enhancements]**
+**📝 Future Enhancements**
 
 Add more features (assignment marks, quiz scores, etc.)
+
 Compare performance with other ML models (Logistic Regression, Random Forest, SVM)
+
 Improve interpretability using SHAP values
+
 Enhance UI with more interactive plots in Streamlit
