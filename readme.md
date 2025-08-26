@@ -3,7 +3,7 @@
 This project uses a Decision Tree Classifier to predict whether a student will Pass or Fail an exam based on study-related features.
 It is also deployed as an interactive Streamlit web app for real-time predictions.
 
-**👉Try it Live** **-**https://yuvashri-25-ml-project-1-app-x5qjoz.streamlit.app/
+**👉Try it Live** https://yuvashri-25-ml-project-1-app-x5qjoz.streamlit.app/
 
 **📌 Project Overview**
 
@@ -22,9 +22,13 @@ Visualize model behavior with plots and decision tree graph
 The dataset includes the following features:
 
 📖 Hours Studied
+
 😴 Sleep Hours
+
 🏫 Attendance Percentage
+
 🎯 Pass/Fail Label
+
 📄 Example dataset file: student_exam_tree.csv
 
 
@@ -53,6 +57,7 @@ The Decision Tree is evaluated using:
 ✅ Confusion Matrix
 
 **[📝 Future Enhancements]**
+
 Add more features (assignment marks, quiz scores, etc.)
 Compare performance with other ML models (Logistic Regression, Random Forest, SVM)
 Improve interpretability using SHAP values
