@@ -39,6 +39,7 @@ Based on these inputs, the trained Decision Tree model predicts whether the stud
 
 
 
+
 **📊 Visualizations**
 
 1️⃣ Decision Tree Visualization
